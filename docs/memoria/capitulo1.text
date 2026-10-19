@@ -1,1 +1,51 @@
+Memoria técnica — PetRescue Manager
 
+1. Introducción
+
+PetRescue Manager es un proyecto de desarrollo de una aplicación destinada a facilitar la gestión de las protectoras de animales.
+
+La finalidad del proyecto es centralizar la información y ayudar a organizar las tareas relacionadas con los animales y la actividad de la protectora.
+
+2. Objetivos
+
+El objetivo principal es desarrollar una aplicación que facilite la gestión de la información de una protectora de animales.
+
+Los objetivos iniciales son:
+
+Organizar la información de los animales.
+
+Facilitar la consulta y actualización de los datos.
+
+Diseñar una estructura que permita ampliar la aplicación en el futuro.
+
+Mantener el proyecto organizado mediante Git y GitHub.
+
+3. Alcance inicial
+
+Durante las primeras fases se preparará la estructura del proyecto, se documentarán las decisiones técnicas y se organizará el trabajo del equipo.
+
+Las funcionalidades concretas se desarrollarán progresivamente según la planificación y las prioridades del proyecto.
+
+4. Tecnologías
+
+La tecnología prevista para el backend es Java con Spring Boot.
+
+Git y GitHub se utilizarán para controlar las versiones del código y organizar el trabajo.
+
+La base de datos y el resto de tecnologías se documentarán cuando el equipo confirme su elección definitiva.
+
+5. Organización del equipo
+
+El proyecto se desarrolla en equipo.
+
+Pau: trabajo relacionado con el backend y la gestión de datos.
+
+Arnau: trabajo relacionado con la interfaz y el diseño.
+
+Ambos: coordinación, planificación, integración y revisión del proyecto.
+
+6. Estado actual
+
+El proyecto se encuentra en su fase inicial. Durante el primer sprint se está organizando el repositorio, preparando la documentación y definiendo las tareas necesarias para continuar con el desarrollo.
+
+Este documento se actualizará a medida que avance el proyecto.
