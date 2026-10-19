@@ -1,1 +1,36 @@
+\section{Introducción}
 
+PetRescue Manager es un proyecto que tiene como objetivo facilitar
+la gestión de información en las protectoras de animales.
+
+La aplicación pretende centralizar los datos necesarios para
+organizar el trabajo de la protectora y facilitar el acceso a la
+información.
+
+\section{Objetivos}
+
+El objetivo principal es desarrollar una aplicación que ayude
+a gestionar la información de los animales de una protectora.
+
+Los objetivos específicos iniciales son:
+\begin{itemize}
+    \item Organizar la información de los animales.
+    \item Facilitar la consulta de los datos.
+    \item Diseñar una estructura que permita ampliar la aplicación.
+    \item Trabajar de forma organizada mediante GitHub.
+\end{itemize}
+
+\section{Alcance del proyecto}
+
+En la fase inicial se priorizará la gestión de animales.
+Las demás funcionalidades se planificarán para fases posteriores
+según las necesidades del proyecto y el tiempo disponible.
+
+\section{Organización del equipo}
+
+Pau se centrará principalmente en el backend y la gestión de datos.
+
+Arnau se centrará principalmente en la interfaz y el diseño.
+
+Ambos colaborarán en la planificación, la integración y la revisión
+del proyecto.
