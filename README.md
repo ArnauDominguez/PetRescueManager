@@ -32,5 +32,7 @@ A través de este espacio de trabajo centralizado se gestionará el desarrollo c
 │   ├── memoria/       # Código fuente LaTeX de la memoria técnica
 │   └── adr/           # Archivos Architectural Decision Records
 ├── src/               # Código fuente del proyecto (Frontend / Backend)
+│   ├── frontend/      
+│   └── backend/       
 ├── design/            # Bocetos, diagramas y prototipos de interfaz
 └── README.md          # Documentación principal del repositorio
