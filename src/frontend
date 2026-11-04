@@ -1,1 +1,10 @@
+function App() {
+  return (
+    <div>
+      <h1>PetRescue Manager</h1>
+      <h2>Plataforma Integral para la Gestión de Protectoras y Refugios de Animales</h2>
+    </div>
+  );
+}
 
+export default App;
